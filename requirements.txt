@@ -29,7 +29,7 @@ cachetools==4.2.2
 catalogue==1.0.0
 certifi==2021.5.30
 cffi==1.14.6
-cftime==1.5.0
+cftime==1.5.1
 chardet==3.0.4
 charset-normalizer==2.0.6
 clang==5.0
