@@ -29,8 +29,8 @@ cachetools==4.2.2
 catalogue==1.0.0
 certifi==2021.5.30
 cffi==1.14.6
-cftime==1.5.0
-chardet==3.0.4
+cftime==1.5.1
+chardet==4.0.0
 charset-normalizer==2.0.6
 clang==5.0
 click==7.1.2
@@ -81,7 +81,7 @@ fastprogress==1.0.0
 fastrlock==0.6
 fbprophet==0.7.1
 feather-format==0.4.1
-filelock==3.0.12
+filelock==3.3.0
 firebase-admin==4.4.0
 fix-yahoo-finance==0.0.22
 Flask==1.1.4
@@ -117,7 +117,7 @@ googleapis-common-protos==1.53.0
 googledrivedownloader==0.4
 graphviz==0.10.1
 greenlet==1.1.1
-grpcio==1.40.0
+grpcio==1.41.0
 gspread==3.0.1
 gspread-dataframe==3.0.8
 gym==0.17.3
@@ -337,7 +337,7 @@ tensorboard==2.6.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
 tensorflow @ file:///tensorflow-2.6.0-cp37-cp37m-linux_x86_64.whl
-tensorflow-datasets==4.0.1
+tensorflow-datasets==4.4.0
 tensorflow-estimator==2.6.0
 tensorflow-gcs-config==2.6.0
 tensorflow-hub==0.12.0
