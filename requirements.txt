@@ -72,7 +72,7 @@ ecos==2.0.7.post1
 editdistance==0.5.3
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
 entrypoints==0.3
-ephem==4.0.0.2
+ephem==4.1
 et-xmlfile==1.1.0
 fa2==0.3.5
 fastai==1.0.61
